@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the usda_features feature.
+ */
+
+include_once 'usda_features.features.inc';
